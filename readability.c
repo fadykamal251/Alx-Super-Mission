@@ -50,10 +50,10 @@ int main(void)
     }
     else if (grade >= 16)
     {
-        printf("Grade is 16+\n");
+        printf("Grade 16+\n");
     }
     else
     {
-        printf("Grade is %i\n", grade);
+        printf("Grade %i\n", grade);
     }
 }
